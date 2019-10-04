@@ -1,2 +1,2 @@
 # hello-world
-Let's put all my trash, ahem, miscellaneous stuff in here
+Let's put all my <s>trash</s> miscellaneous stuff in here
